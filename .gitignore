@@ -3,4 +3,4 @@ __pycache__/
 MNIST_data/
 .keys
 Junk_Folder/
-
+venv/
